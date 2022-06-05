@@ -1,0 +1,28 @@
+.home .aboutMe, 
+.home .portfolio, 
+.home .document {
+  position: absolute;
+  filter: drop-shadow(10px -10px 10px rgba(0, 0, 0, 0.25)) drop-shadow(20px -20px 20px rgba(0, 0, 0, 0.25));
+  -webkit-backdrop-filter: blur(30px);
+  backdrop-filter: blur(30px);
+  border-radius: 10px;
+}
+
+.home .aboutMe {
+  left: 10%;
+  bottom: 5%;
+  background: rgba(212,237,231, 0.75);
+}
+
+.home .portfolio {
+  left: 20%;
+  bottom: 7.5%;
+  background: rgba(146, 169, 189, 0.75);
+}
+
+.home .document {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  background: rgba(4, 13, 33, 0.75);
+}

@@ -1,0 +1,78 @@
+{
+  "lstProject": [
+    {
+      "id": "project_001",
+      "name": "Merged",
+      "describe": "Convert layout to HTML/CSS",
+      "libraries": [
+      {"id":1,"name":"Bootstrap 5"},
+      {"id":2,"name":"Owl carrousel"},
+      {"id":4,"name":"Jquery Waypoint"},
+      {"id":5,"name":"CountUp JS"},
+      {"id":6,"name":"Back To Top JS"}
+      ],
+      "linkSource":"https://github.com/ngoclongbui/Merged.git",
+      "linkView":"https://ngoclong-merged.netlify.app"
+    },
+    {
+      "id": "project_002",
+      "name": "E-learning",
+      "describe": "Convert layout to HTML/SASS",
+      "libraries": [
+        {"id":1,"name":"Bootstrap 5"},
+        {"id":2,"name":"Owl carrousel"}
+      ],
+      "linkSource":"https://github.com/ngoclongbui/E-learningPage.git",
+      "linkView":"https://ngoclong-elearning.netlify.app"
+    },
+    {
+      "id": "project_003",
+      "name": "Massive Home",
+      "describe": "Convert layout to HTML/SASS",
+      "libraries": [
+      {"id":1,"name":"Bootstrap 5"},
+      {"id":2,"name":"Owl carrousel"},
+      {"id":4,"name":"Jquery Waypoint"},
+      {"id":5,"name":"CountUp JS"}
+      ],
+      "linkSource":"https://github.com/ngoclongbui/MassiveHome.git",
+      "linkView":"https://ngoclong-massivehome.netlify.app"
+    },
+    {
+      "id": "project_004",
+      "name": "CyberBugs",
+      "describe": "Build app task manager",
+      "libraries": [
+      {"id":1,"name":"Antd"},
+      {"id":2,"name":"Axios"},
+      {"id":4,"name":"Bootstrap"},
+      {"id":5,"name":"React"},
+      {"id":6,"name":"React-router-dom"},
+      {"id":7,"name":"Redux"},
+      {"id":8,"name":"Redux-saga"},
+      {"id":9,"name":"Formik, yup"}
+      ],
+      "linkSource":"https://github.com/ngoclongbui/CyberBugs.git",
+      "linkView":"http://ngoclong-cyberbugs.surge.sh/"
+    },
+    {
+      "id": "project_005",
+      "name": "Movie booking",
+      "describe": "Build app movie booking",
+      "libraries": [
+        {"id":1,"name":"Antd"},
+        {"id":2,"name":"Axios"},
+        {"id":3,"name":"i18next"},
+        {"id":4,"name":"tailwindcss"},
+        {"id":5,"name":"React"},
+        {"id":6,"name":"React-router-dom"},
+        {"id":7,"name":"Redux"},
+        {"id":8,"name":"Redux-thunk"},
+        {"id":9,"name":"lodash"},
+        {"id":10,"name":"Formik, yup"}
+      ],
+      "linkSource":"https://github.com/ngoclongbui/MovieBooking.git",
+      "linkView":"http://ngoclong-moviebooking.surge.sh/"
+    }
+  ]
+}
