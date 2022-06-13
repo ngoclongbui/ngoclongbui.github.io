@@ -40,23 +40,35 @@
     },
     {
       "id": "project_004",
+      "name": "TodoList",
+      "describe": "Build app todo",
+      "libraries": [
+      {"id":1,"name":"Axios"},
+      {"id":2,"name":"Redux/RTK"},
+      {"id":3,"name":"Redux-thunk"}
+
+      ],
+      "linkSource":"https://github.com/ngoclongbui/TodoList.git",
+      "linkView":"http://ngoclong-todolist.surge.sh/"
+    },
+    {
+      "id": "project_005",
       "name": "CyberBugs",
       "describe": "Build app task manager",
       "libraries": [
       {"id":1,"name":"Antd"},
       {"id":2,"name":"Axios"},
-      {"id":4,"name":"Bootstrap"},
-      {"id":5,"name":"React"},
-      {"id":6,"name":"React-router-dom"},
-      {"id":7,"name":"Redux"},
-      {"id":8,"name":"Redux-saga"},
-      {"id":9,"name":"Formik, yup"}
+      {"id":3,"name":"Bootstrap"},
+      {"id":4,"name":"React-router-dom"},
+      {"id":5,"name":"Redux"},
+      {"id":6,"name":"Redux-saga"},
+      {"id":7,"name":"Formik, yup"}
       ],
       "linkSource":"https://github.com/ngoclongbui/CyberBugs.git",
       "linkView":"http://ngoclong-cyberbugs.surge.sh/"
     },
     {
-      "id": "project_005",
+      "id": "project_006",
       "name": "Movie booking",
       "describe": "Build app movie booking",
       "libraries": [
@@ -64,12 +76,11 @@
         {"id":2,"name":"Axios"},
         {"id":3,"name":"i18next"},
         {"id":4,"name":"tailwindcss"},
-        {"id":5,"name":"React"},
-        {"id":6,"name":"React-router-dom"},
-        {"id":7,"name":"Redux"},
-        {"id":8,"name":"Redux-thunk"},
-        {"id":9,"name":"lodash"},
-        {"id":10,"name":"Formik, yup"}
+        {"id":5,"name":"React-router-dom"},
+        {"id":6,"name":"Redux"},
+        {"id":7,"name":"Redux-thunk"},
+        {"id":8,"name":"lodash"},
+        {"id":9,"name":"Formik, yup"}
       ],
       "linkSource":"https://github.com/ngoclongbui/MovieBooking.git",
       "linkView":"http://ngoclong-moviebooking.surge.sh/"
