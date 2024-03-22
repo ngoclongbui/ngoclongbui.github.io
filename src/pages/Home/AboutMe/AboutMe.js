@@ -4,7 +4,7 @@ import CopyrightIcon from "@mui/icons-material/Copyright";
 import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
 import PhoneAndroidOutlinedIcon from "@mui/icons-material/PhoneAndroidOutlined";
 import FmdGoodOutlinedIcon from "@mui/icons-material/FmdGoodOutlined";
-function AboutMe(props) {
+function AboutMe() {
   return (
     <div className="flex flex-wrap content-between w-full h-full">
       <div className="w-full">
